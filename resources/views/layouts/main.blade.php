@@ -183,4 +183,23 @@
          <!--script src="{{asset('vendors/jquery/dist/jquery.min.js')}}"></script>!-->
         <!--<script type="text/javascript" src="{{ asset('theme/vendors/jquery/jquery.min.js') }}"></script> !-->
 		<script type="text/javascript" src="{{ asset('theme/vendors/imagesloaded/imagesloaded.pkgd.js') }}"></script>
-		<script type="text/javascript" src="{{ asset('theme/vendors/isotope-layout/isotope.pkgd.js') 
+		<script type="text/javascript" src="{{ asset('theme/vendors/isotope-layout/isotope.pkgd.js') }}"></script>
+		<script type="text/javascript" src="{{ asset('theme/vendors/jquery.countdown/jquery.countdown.min.js') }}"></script>
+		<script type="text/javascript" src="{{ asset('theme/vendors/jquery.countTo/jquery.countTo.min.js') }}"></script>
+		<script type="text/javascript" src="{{  asset('theme/vendors/jquery.countUp/jquery.countup.min.js') }}"></script>
+		<script type="text/javascript" src="{{  asset('theme/vendors/jquery.matchHeight/jquery.matchHeight.min.js') }}"></script>
+		<script type="text/javascript" src="{{  asset('theme/vendors/jquery.mb.ytplayer/jquery.mb.YTPlayer.min.js') }}"></script>
+		<script type="text/javascript" src="{{ asset('theme/vendors/magnific-popup/jquery.magnific-popup.min.js') }}"></script>
+		<script type="text/javascript" src="{{  asset('theme/vendors/masonry-layout/masonry.pkgd.js') }}"></script>
+		<script type="text/javascript" src="{{ asset('theme/vendors/owl.carousel/owl.carousel.js') }}"></script>
+		<script type="text/javascript" src="{{ asset('theme/vendors/jquery.waypoints/jquery.waypoints.min.js') }}"></script>
+		<script type="text/javascript" src="{{  asset('theme/vendors/menu/menu.min.js') }}"></script>
+		<script type="text/javascript" src="{{ asset('theme/vendors/smoothscroll/SmoothScroll.min.js') }}"></script>
+        
+        <script src="https://maps.googleapis.com/maps/api/js?callback=myMap"></script> 
+        <!-- App-->
+        
+		<script type="text/javascript" src="{{ asset('theme/js/main.js') }}"></script>
+        <script src="{{ asset('js/app.js') }}"></script>
+</body>
+</html> 
